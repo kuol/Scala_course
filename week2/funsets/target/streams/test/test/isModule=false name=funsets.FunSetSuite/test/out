@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- intersect contains elements that exist in each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- diff contains elements that exist in first set but not the second[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter works properly[0m[0m
+[0m[[0minfo[0m] [0m[32m- forall works properly[0m[0m
+[0m[[0minfo[0m] [0m[32m- exist works properly[0m[0m
+[0m[[0minfo[0m] [0m[32m- map works properly[0m[0m
